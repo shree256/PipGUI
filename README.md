@@ -11,6 +11,6 @@ Functionalities:
 4.Install from requirements.txt <br>
 5.Show installed packages details. <br>
 
-<img src="pipgui.png" width=350 height=200>
-
 <img src="img1.png" width=350 height=200>
+
+<img src="img2.png" width=350 height=200>

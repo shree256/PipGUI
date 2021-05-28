@@ -11,6 +11,11 @@ Functionalities:
 4.Install from requirements.txt <br>
 5.Show installed packages details. <br>
 
+Note: &nbsp;Activate virtual environment from terminal and then run pipgui.py file from terminal.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Commands: workon \<environment_name\>; python3 pipgui.py
+
+<br>
 <img src="img1.png" width=350 height=200>
 
 <img src="img2.png" width=350 height=200>
